@@ -9,6 +9,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 - Searching Algorithms (Binary Search, Linear Search, etc.)
 - Sorting Algorithms (Bubble, Selection, Merge, Quick)
 - HashMap & Set
+- Recursion
 - Stacks & Queues
 - Linked List
 - Trees
